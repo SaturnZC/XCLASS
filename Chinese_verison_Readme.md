@@ -124,6 +124,7 @@ source ~/.bashrc
 | numpy        | 1.25.0    |
 | Pillow       | 11.3.0    |
 | regions      | 0.10      |
+| scipy	       | 1.12	   |
 | setuptools   | 58.0.4    |
 | xclass       | 1.4.3     |
 
